@@ -121,4 +121,4 @@ Execute the program
 (./valid.png)
 
 # RESULT 
-The program for creating slot time table is completed successfully
+The program for creating slot time table is completed successfully.
